@@ -1,0 +1,17 @@
+{
+    "name": "intro-pwa",
+    "short_name": "intro-pwa",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#9900FE",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "smu-icon.pngg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
