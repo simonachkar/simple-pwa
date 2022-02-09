@@ -41,3 +41,12 @@ When you add the manifest file – **and you refer it in the HTML**, you can see
 
 ![app manifest, in chrome dev tools](/screenshots/App-Manifest.png)
 
+You should see your app on your phone like this: 
+
+<div style="display: flex">
+    <img src="./screenshots/app-screenshot-on-pixel-phone.png" alt="app screenshot on pixel phone" />
+    <img src="./screenshots/app-icon-on-home-screen.png" alt="app icon on home screen" />
+</div>
+
+
+
